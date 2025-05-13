@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "SIS_projekt",
+    "slug": "your-app",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "android": {
+      "permissions": [
+        "INTERNET"
+      ]
+    },
+    "hostType": "lan",
+    "https": false,
+    "dev": true,
+    "minify": false
+  },
+  "dev": true,
+  "minify": false,
+  "https": false,
+  "hostType": "lan",
+  "lanType": "ip",
+  "urlRandomness": null,
+  "scheme": null,
+  "devClient": false
+}
